@@ -8,8 +8,8 @@
 
 ### Todo list
 
->> It is currently empty
+> It is currently empty
 
 ## How to use it?
 
->> It is currently empty
+> It is currently empty
