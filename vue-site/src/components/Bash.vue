@@ -26,9 +26,11 @@ export default {
   background: transparent;
   width: 100%;
   outline-width: 0;
+  font-size: 20px;
 }
 .bash-name {
   color: #71ad38;
+  margin-top: 4px;
 }
 .row-container {
   width: 100%;
