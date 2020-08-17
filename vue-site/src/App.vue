@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="background">
+  <div id="app">
     <Header v-bind:title="title" />
     <Bash v-bind:bashName="title" />
   </div>
@@ -15,7 +15,7 @@ export default {
     Header,
     Bash,
   },
-  data: function() {
+  data: function () {
     return {
       title: "sjd@quantum:~",
     };
@@ -25,6 +25,7 @@ export default {
 
 <style>
 * {
+  background: #002b36;
   margin: 0;
   padding: 0;
   -webkit-touch-callout: none; /* iOS Safari */
@@ -34,8 +35,5 @@ export default {
   -ms-user-select: none; /* Internet Explorer/Edge */
   user-select: none; /* Non-prefixed version, currently
                                   supported by Chrome and Opera */
-}
-.background {
-  background: #002b36;
 }
 </style>
