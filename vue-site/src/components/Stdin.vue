@@ -11,7 +11,7 @@
 
 <script>
 export default {
-  name: "Bash",
+  name: "Stdin",
   props: {
     bashName: String,
   },
