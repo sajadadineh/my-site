@@ -1,19 +1,19 @@
 <template>
   <div id="app">
     <Header v-bind:title="title" />
-    <Stdin v-bind:bashName="title" />
+    <StdinOut v-bind:bashName="title" />
   </div>
 </template>
 
 <script>
 import Header from "./components/Header";
-import Stdin from "./components/Stdin";
+import StdinOut from "./components/Stdin-out";
 
 export default {
   name: "App",
   components: {
     Header,
-    Stdin,
+    StdinOut,
   },
   data: function () {
     return {

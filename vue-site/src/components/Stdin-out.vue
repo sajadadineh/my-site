@@ -4,32 +4,29 @@
       <h5>{{ bashName }}$</h5>
     </div>
     <div class="column-commands command">
-      <input type="text" id="commands" />
+      <input v-model="message" type="text" />
     </div>
   </div>
-  <Stdout v-bind:commands="commands" />
+  <div>
+    <p>{{ message }}</p>
+  </div>
 </template>
 
 <script>
-import Stdout from "./Stdout";
-
 export default {
-  name: "Stdin",
+  name: "Stdin-out",
   props: {
     bashName: String,
-  },
-  components: {
-    Stdout,
-  },
-  data: function() {
-    return {
-      commands: "ls",
-    };
   },
 };
 </script>
 
 <style>
+p {
+  color: #65888c;
+  font-size: 20px;
+}
+
 .command input {
   color: #65888c;
   border-width: 0px;
