@@ -7,13 +7,24 @@
       <input type="text" id="commands" />
     </div>
   </div>
+  <Stdout v-bind:commands="commands" />
 </template>
 
 <script>
+import Stdout from "./Stdout";
+
 export default {
   name: "Stdin",
   props: {
     bashName: String,
+  },
+  components: {
+    Stdout,
+  },
+  data: function() {
+    return {
+      commands: "ls",
+    };
   },
 };
 </script>
