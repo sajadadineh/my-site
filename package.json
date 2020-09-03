@@ -4,7 +4,7 @@
   "description": "this is a personal site",
   "private": false,
   "main": "./dist/vue-command.common.js",
-  "license": "MIT",
+  "license": "GPL3.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/sajadadineh/my-site"
