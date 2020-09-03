@@ -30,7 +30,8 @@ export default {
   inject: ['terminate'],
 
   data: () => ({
-    characters: 'SAJAD ADINEH',
+    characters: `SAJAD ADINEH
+      DEVELOPER AND COMPUTER SOFTWARE ENGINEERING :p`,
     index: 0,
     interval: undefined
   }),
