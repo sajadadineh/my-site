@@ -4,15 +4,38 @@
 
 ### Description
 
-> It is currently empty
-> 
+this is my site, a CV but terminal like :D
+
+completely designed like my desktop terminal :p
+
+> I found the base of the project in [this repository](https://github.com/ndabAP/vue-command), but I wrote and developed commands such as cd , cat , ls, etc. myself
+
 
 ### Todo list
 
-- [ ] Add description
-- [ ] 
+- [x] develop ui
+- [x] ls command
+- [x] develop cd command
+- [x] cat command
+- [ ] autocompletable for options
+- [ ] better and optimize src code
 
 ## How to use it?
 
-> It is currently empty
-> 
+# install dependencies
+npm install .
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run all tests
+npm test
