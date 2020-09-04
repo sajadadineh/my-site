@@ -17,7 +17,8 @@ completely designed like my desktop terminal :p
 - [x] ls command
 - [x] develop cd command
 - [x] cat command
-- [ ] autocompletable for options
+- [x] exit command
+- [ ] autocompletion for options
 - [ ] better and optimize src code
 
 ## How to use it?
