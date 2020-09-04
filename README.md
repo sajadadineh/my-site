@@ -1,6 +1,7 @@
-# my-site
+# my-site [![Netlify Status](https://api.netlify.com/api/v1/badges/f23cf0dc-c5d4-47f5-abc9-266c5799e302/deploy-status)](https://sajadadineh.netlify.app)
 
-[link my personal site](https://sajadadineh.ir/)
+
+[link my personal site](https://sajadadineh.netlify.app)
 
 ### Description
 
@@ -17,7 +18,8 @@ completely designed like my desktop terminal :p
 - [x] ls command
 - [x] develop cd command
 - [x] cat command
-- [ ] autocompletable for options
+- [x] exit command
+- [ ] autocompletion for options
 - [ ] better and optimize src code
 
 ## How to use it?

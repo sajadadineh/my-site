@@ -85,7 +85,7 @@ const TXT = [
     ntxt: 'contactMe.txt',
     txt: `<strong>mail: </strong>sajadadineh@protonmail.com<br>
           <strong>github: </strong><a href="https://github.com/sajadadineh" target="_blank">github.com/sajadadineh</a><br>
-          <strong>github: </strong><a href="https://www.linkedin.com/in/sajad-adineh-2b0153188/" target="_blank">linkedin.com/sajadadineh</a><br>
+          <strong>linkedin: </strong><a href="https://www.linkedin.com/in/sajad-adineh-2b0153188/" target="_blank">linkedin.com/sajadadineh</a><br>
     `,
     Dir: PROMPT
   },
