@@ -1,4 +1,5 @@
-# my-site
+# my-site [![Netlify Status](https://api.netlify.com/api/v1/badges/f23cf0dc-c5d4-47f5-abc9-266c5799e302/deploy-status)](https://sajadadineh.netlify.app)
+
 
 [link my personal site](https://sajadadineh.ir/)
 
