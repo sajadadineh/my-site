@@ -1,6 +1,6 @@
 # my-site
 
-[link my personal site](https://sajadadineh.ir/)
+[link my personal site](https://sajadadineh.netlify.app)
 
 ### Description
 
