@@ -21,6 +21,7 @@ completely designed like my desktop terminal :p
 - [x] exit command
 - [ ] autocompletion for options
 - [ ] better and optimize src code
+- [ ] create table generator function
 
 ## How to use it?
 
