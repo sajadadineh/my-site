@@ -1,7 +1,7 @@
-# my-site [![Netlify Status](https://api.netlify.com/api/v1/badges/f23cf0dc-c5d4-47f5-abc9-266c5799e302/deploy-status)](https://sajadadineh.netlify.app)
+# my-site 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f23cf0dc-c5d4-47f5-abc9-266c5799e302/deploy-status)](https://sajadadineh.netlify.app)
 
-[link my personal site](https://sajadadineh.netlify.app)
 
 ### Description
 
@@ -21,6 +21,7 @@ completely designed like my desktop terminal :p
 - [x] exit command
 - [ ] autocompletion for options
 - [ ] better and optimize src code
+- [ ] create table generator function
 
 ## How to use it?
 
