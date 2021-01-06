@@ -75,7 +75,8 @@
     "vue-template-compiler": "^2.6.11",
     "webpack": "^4.42.1",
     "node-forge": ">=0.10.0",
-    "highlight.js": ">=10.4.1"
+    "highlight.js": ">=10.4.1",
+    "axios": ">=0.21.1"
   },
   "engines": {
     "node": ">=12.0.0"
