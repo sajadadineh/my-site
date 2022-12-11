@@ -64,7 +64,7 @@
     "flush-promises": "^1.0.2",
     "husky": "^4.2.5",
     "js-yaml": "^3.13.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "querystringify": "^2.1.1",
     "sass-loader": "^8.0.0",
     "semantic-release": "^17.0.7",
